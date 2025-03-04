@@ -17,7 +17,7 @@ id, login, tabel, password
 Нужно заполнить таблицу с пользователями users через seeds - это делается через sequelize.
 
 Front
-Использовать стек: Vue + TypeScript (Вынести в Storybook компоненты по желанию, будет большим плюсом).
+Использовать стек: Vue 3 Composition API + TypeScript (Вынести в Storybook компоненты по желанию, будет большим плюсом).
 
 Верстка страниц в соответствии с дизайном в фигме https://www.figma.com/design/GenX6JHyNhWu4gFnBQg4Dx/Untitled?node-id=0-1&p=f&t=CQJCQnYVnCrRk2ID-0
 
